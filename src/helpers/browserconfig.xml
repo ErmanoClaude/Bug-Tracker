@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+  <msapplication>
+    <tile>
+      <square70x70logo src="https://cdn.glitch.com/0f8c6da8-f02d-42e4-b18c-44437cd6aed4%2Ffavicon-70.png?v=1577024909748"/>
+      <square150x150logo src="https://cdn.glitch.com/0f8c6da8-f02d-42e4-b18c-44437cd6aed4%2Ffavicon-150.png?v=1577024910018"/>
+      <square310x310logo src="https://cdn.glitch.com/0f8c6da8-f02d-42e4-b18c-44437cd6aed4%2Ffavicon-310.png?v=1577024910225"/>
+      <TileColor>#FFFFFF</TileColor>
+    </tile>
+  </msapplication>
+</browserconfig>
