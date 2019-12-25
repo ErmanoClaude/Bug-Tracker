@@ -1,25 +1,2 @@
-# Logs
-logs
-*.log
-npm-debug.log*
-
-# Runtime data
-pids
-*.pid
-*.seed
-*.pid.lock
-
-# Compiled Js for Server and Client side
-build/
-
-# Dependency directories
-node_modules/
-jspm_packages/
-
-# Optional npm cache directory
-.npm
-
-# dotenv environment variables file
-.env
-.env.test
-
+build
+node_modules
